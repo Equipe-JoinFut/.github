@@ -1,6 +1,6 @@
 # Bem vindos a equipe JoinFut
 
-![Gitlab_Logo](https://user-images.githubusercontent.com/18719295/184917110-6b4977f7-01c6-43b0-a7e5-880c3f30871b.png)
+![Logo-Animada](https://user-images.githubusercontent.com/18719295/186787735-4ec6b2eb-7985-41bc-8917-f45ea7076fce.gif)
 
 
 
