@@ -1,6 +1,10 @@
 # Bem vindos a equipe JoinFut
 
-![Logo-Animada](https://user-images.githubusercontent.com/18719295/186787735-4ec6b2eb-7985-41bc-8917-f45ea7076fce.gif)
+![Joinfut-Backend-Logo](https://user-images.githubusercontent.com/18719295/186977672-2a6cee11-2846-48a9-a1c7-ccb7894a781d.gif)
+![Joinfut-database](https://user-images.githubusercontent.com/18719295/186977677-7868c90e-7efb-44a4-8b8d-c58dfc4f0500.gif)
+![Joinfut-Frontend-Logo](https://user-images.githubusercontent.com/18719295/186977719-bc009c52-8a0f-45f6-b7d8-7efa9e333331.gif)
+![Joinfut-Wiki-Logo](https://user-images.githubusercontent.com/18719295/186977724-a4af58e8-bab4-495c-b346-5fab7a78624b.gif)
+
 
 
 
