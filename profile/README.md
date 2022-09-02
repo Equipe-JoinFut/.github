@@ -1,11 +1,9 @@
 # Bem vindos a equipe JoinFut
 
-![Joinfut-Backend-Logo](https://user-images.githubusercontent.com/18719295/186977672-2a6cee11-2846-48a9-a1c7-ccb7894a781d.gif)
-![Joinfut-database](https://user-images.githubusercontent.com/18719295/186977677-7868c90e-7efb-44a4-8b8d-c58dfc4f0500.gif)
-![Joinfut-Frontend-Logo](https://user-images.githubusercontent.com/18719295/186977719-bc009c52-8a0f-45f6-b7d8-7efa9e333331.gif)
-![Joinfut-Wiki-Logo](https://user-images.githubusercontent.com/18719295/186977724-a4af58e8-bab4-495c-b346-5fab7a78624b.gif)
-
-
+![joinfut backend](https://user-images.githubusercontent.com/18719295/188202488-7b14ee15-23a9-475d-a593-7d76c80318ef.gif)
+![Joinfut Database](https://user-images.githubusercontent.com/18719295/188202491-b1c766b4-e896-4983-8762-ae28afba3975.gif)
+![Joinfut Frontend](https://user-images.githubusercontent.com/18719295/188202493-50ecace2-adb7-4706-bb1e-bbb9d97e98cd.gif)
+![Joinfut wiki](https://user-images.githubusercontent.com/18719295/188202511-e8f83e1e-779b-4ac7-8964-343a832cbd4c.gif)
 
 
 ### Projeto AGES 2022/2 Sexta-Feira LM/NP
@@ -18,6 +16,8 @@
    * [**Não pode ser feito commits ou Branchs nele**]()
 * O repositório [Backup-Gitlab-Project](https://github.com/Equipe-JoinFut/Backup-Gitlab-Project) serve para fazer backup do Backend do nosso Gitlab. 
    * [**Não pode ser feito commits ou Branchs nele**]()
+* O repositório [Backup-Gitlab-Database](https://github.com/Equipe-JoinFut/Backup-Gitlab-Database) serve para fazer backups dos scripts do projeto do nosso Gitlab
+  * [**Não pode ser feito commits ou Branchs nele**]()
    
 ---
 
