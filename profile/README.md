@@ -1,12 +1,13 @@
-# Bem vindos a equipe JoinFut
+# $${\color{black}\boxed{\color{yellow}\mathbb{Bem \space Vindos \space ao \space Projeto \space Joinfut}}}$$
 
-![joinfut backend](https://user-images.githubusercontent.com/18719295/188202488-7b14ee15-23a9-475d-a593-7d76c80318ef.gif)
-![Joinfut Database](https://user-images.githubusercontent.com/18719295/188202491-b1c766b4-e896-4983-8762-ae28afba3975.gif)
-![Joinfut Frontend](https://user-images.githubusercontent.com/18719295/188202493-50ecace2-adb7-4706-bb1e-bbb9d97e98cd.gif)
-![Joinfut wiki](https://user-images.githubusercontent.com/18719295/188202511-e8f83e1e-779b-4ac7-8964-343a832cbd4c.gif)
+<table align="center"><tr><td align="center" width="9999">
+<img src="https://user-images.githubusercontent.com/18719295/188202488-7b14ee15-23a9-475d-a593-7d76c80318ef.gif" width=150 height=150>
+<img src="https://user-images.githubusercontent.com/18719295/188202491-b1c766b4-e896-4983-8762-ae28afba3975.gif" width=150 height=150>
+<img src="https://user-images.githubusercontent.com/18719295/188202493-50ecace2-adb7-4706-bb1e-bbb9d97e98cd.gif" width=150 height=150>
+<img src="https://user-images.githubusercontent.com/18719295/188202511-e8f83e1e-779b-4ac7-8964-343a832cbd4c.gif" width=150 height=150>
+</td></tr></table
 
-
-### Projeto AGES 2022/2 Sexta-Feira LM/NP
+##### $${\color{yellow} Projeto \space AGES \space 2022/2 \space Sexta-Feira \space LM/NP}$$
 
 ---
 
