@@ -1,4 +1,4 @@
-# $${\color{black}\boxed{\color{yellow}\mathbb{Bem \space Vindos \space ao \space Projeto \space Joinfut}}}$$
+# $${\color{lightblue}\boxed{\color{orange}\mathbb{Bem \space Vindos \space ao \space Projeto \space Joinfut}}}$$
 
 <table align="center"><tr><td align="center" width="9999">
 <img src="https://user-images.githubusercontent.com/18719295/188202488-7b14ee15-23a9-475d-a593-7d76c80318ef.gif" width=150 height=150>
@@ -7,7 +7,7 @@
 <img src="https://user-images.githubusercontent.com/18719295/188202511-e8f83e1e-779b-4ac7-8964-343a832cbd4c.gif" width=150 height=150>
 </td></tr></table
 
-##### $${\color{yellow} Projeto \space AGES \space 2022/2 \space Sexta-Feira \space LM/NP}$$
+##### $${\color{orange} Projeto \space AGES \space 2022/2 \space Sexta-Feira \space LM/NP}$$
 
 ---
 
