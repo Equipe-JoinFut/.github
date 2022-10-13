@@ -1,4 +1,4 @@
-# $${\color{lightblue}\boxed{\color{orange}\mathbb{Bem \space Vindos \space ao \space Projeto \space Joinfut}}}$$
+# $${\color{blue}\boxed{\color{lime}\mathbb{Bem \space Vindos \space ao \space Projeto \space Joinfut}}}$$
 
 <table align="center"><tr><td align="center" width="9999">
 <img src="https://user-images.githubusercontent.com/18719295/188202488-7b14ee15-23a9-475d-a593-7d76c80318ef.gif" width=150 height=150>
